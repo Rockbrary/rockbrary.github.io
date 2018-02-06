@@ -7,8 +7,8 @@ body {
 /*The hero Image */
 
 .hero-image {
-	background-image: url("rockbrary.jpg");
-	height: 20%;
+	background-image: url("unit_3/rockbrary.jpg");
+	height: 50%;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
