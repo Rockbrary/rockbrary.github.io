@@ -11,6 +11,15 @@ header {
 	
 }
 
+#my_logo {
+	background: url("unit_3/goatwhorephoto.jpg") no-repeat top left;
+	overflow: hidden;
+
+	background-size: cover;
+	clear: both;
+	padding: 0px;
+	margin: 0px;
+}
 #nav {
     position: absolute;
     left: 0px;
@@ -39,10 +48,7 @@ header {
 	text-align: center;
 }
 
-button {
-	margin-right: 0;
-	margin-left: 0;
-	
+
 }
 
 h1 {
