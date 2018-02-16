@@ -10,14 +10,14 @@ hr {
 	width: 500px;
 }
 
-@import url('https://fonts.googleapis.com/css?family=Anton');
-h1 {
 
+h1 {
+    font-family: @import url('https://fonts.googleapis.com/css?family=Anton');; 
 	font-size: 50px;
 	color: #ff0000;
 }
 p {
-	font-family: serif, old english;
+	font-family: serif;
 	font-size: 18px;
 	line-height: 1.5em;
 	margin: 2em;
