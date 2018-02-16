@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css?family=BioRhyme+Expanded');
 body {
 	text-align: center;
 	background: url("../goatwhorephoto.jpg");
@@ -9,6 +10,9 @@ hr {
 	width: 200px;
 }
 p {
+	font-size: 30px;
+	line-height: 1.5em;
+	margin: 2em;
 	color: #ffffff;
 	font-size: 55px;
 }
