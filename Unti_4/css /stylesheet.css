@@ -12,11 +12,12 @@ hr {
 
 
 h1 {
+	text-align: center;
 	font-size: 50px;
 	color: #ff0000;
 }
 p {
-
+     text-align: center;
 	font-size: 18px;
 	line-height: 1.5em;
 	margin: 2em;
@@ -25,6 +26,7 @@ p {
 }
 
 button {
+	text-align: center;
 	background-color: #000000;
 	font-color: #ffffff;
 }
