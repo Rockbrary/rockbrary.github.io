@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Playfair+Display');
+
 body {
 	text-align: center;
 	background: url("../goatwhorephoto.jpg");
@@ -9,9 +9,10 @@ body {
 hr {
 	width: 500px;
 }
+
+@import url('https://fonts.googleapis.com/css?family=Anton');
 h1 {
-	@import url('https://fonts.googleapis.com/css?family=Anton');
-	font-family: serif;
+
 	font-size: 50px;
 	color: #ff0000;
 }
