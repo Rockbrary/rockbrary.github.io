@@ -7,12 +7,20 @@ body {
 }
 
 hr {
-	width: 200px;
+	width: 500px;
+}
+h1 {
+	font-size: 40px;
+	color: #ff0000;
 }
 p {
-	font-size: 30px;
+	font-size: 18px;
 	line-height: 1.5em;
 	margin: 2em;
 	color: #ffffff;
 	font-size: 55px;
+}
+button{
+	animation: hover;
+	color: #000000;
 }
