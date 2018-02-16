@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Anton');
+body {
+	text-align: center;
+	background: url("../goatwhorephoto.jpg");
+	background-size: cover;
+	color: #FFFFFF;
+}
+
+hr {
+	width: 500px;
+}
+
+
+h1 {
+	font-size: 50px;
+	color: #ff0000;
+}
+p {
+
+	font-size: 18px;
+	line-height: 1.5em;
+	margin: 2em;
+	color: #ff0000;
+	
+}
+
+button {
+	background-color: #000000;
+	font-color: #ffffff;
+}
