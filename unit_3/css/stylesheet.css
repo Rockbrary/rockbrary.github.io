@@ -10,7 +10,7 @@ hr {
 	width: 500px;
 }
 h1 {
-	font-size: 40px;
+	font-size: 50px;
 	color: #ff0000;
 }
 p {
@@ -18,9 +18,9 @@ p {
 	line-height: 1.5em;
 	margin: 2em;
 	color: #ffffff;
-	font-size: 55px;
+	
 }
-button{
+button { 
 	animation: hover;
 	color: #000000;
 }
