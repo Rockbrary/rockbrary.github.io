@@ -3,7 +3,7 @@ header {
 	border: 1px black solid;
 	padding: 20px;
 	align-self: 0 auto;
-	
+
 }
 
 nav {
@@ -26,6 +26,7 @@ aside {
 	background-color: #FFC675;
 	border: 2px black solid;
 	padding: 50px;
+	margin: 20px 20px 20px 20px;
 	float: right;
 	
 }
