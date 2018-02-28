@@ -3,10 +3,16 @@ header {
 	border: 1px black solid;
 	padding: 20px;
 }
+
 nav {
 	background-color: #E8C66A;
-
 }
+
+div {
+	background-color: #FFE2B8;
+}	
+
+
 aside {
 	background-color: #FFC675;
 	border: 2px black solid;
@@ -27,14 +33,9 @@ footer {
 	border: 2px black solid;
 	padding: 30px;
 	text-align: center;
-
-}
-div {
-	background-color: #FFE2B8;
-	
 }
 
 section {
 	background-color: #FFE2B8;
-
+}
 	
