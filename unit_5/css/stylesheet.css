@@ -20,14 +20,14 @@ section {
 aside {
 	background-color: #FFC675;
 	border: 2px black solid;
-	padding: 30px;
-	align-content: 0 auto;
+	padding: 50px;
+	
 }
 
 article {
 	background-color: #E89C6C;
 	border: 2px black solid;
-	padding: 30px;
+	padding: 50px;
 	
 }
 
