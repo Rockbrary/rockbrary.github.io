@@ -23,12 +23,16 @@ footer {
 	background-color: #FF957E;
 	border: 2px black solid;
 	padding: 40px;
-	
+
 }
 div {
 	background-color: #FFE2B8;
+	border: 2px black solid;
+	pading: 30px;
 }
 
 section {
 	background-color: #FFE2B8;
+	border: 2px black solid;
+	padding: 20px;
 }
