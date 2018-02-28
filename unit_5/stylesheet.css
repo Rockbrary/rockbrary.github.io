@@ -11,28 +11,30 @@ aside {
 	background-color: #FFC675;
 	border: 2px black solid;
 	padding: 30px;
+	align-content: 0 auto;
 }
 
 article {
 	background-color: #E89C6C;
 	border: 2px black solid;
 	padding: 30px;
+	text-align: center;
+	align-content: 0 auto;
 }
 
 footer {
 	background-color: #FF957E;
 	border: 2px black solid;
-	padding: 40px;
+	padding: 30px;
+	text-align: center;
 
 }
 div {
 	background-color: #FFE2B8;
-	border: 2px black solid;
-	pading: 30px;
+	
 }
 
 section {
 	background-color: #FFE2B8;
-	border: 2px black solid;
-	padding: 20px;
-}
+
+	
