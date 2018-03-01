@@ -58,12 +58,18 @@ article {
     display: block;
 }
 
-.img1 {
+article .img1 {
 	height: 30px;
 	width: 30px;
 	border:1px red solid;
 	display: block;
-	
+
+}
+p {
+	text-decoration: center;
+	color: white;
+	font-size: 20px;
+
 }
 footer {
     background-color: silver;
