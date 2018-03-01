@@ -105,10 +105,10 @@ footer {
 	padding: 20px;
 	float: left;
 	width: 46%;
-	height: 50%;
+	height: absolute;
 }
 #right {
-	background-color: #E55B88;
+	background-color: white;
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
