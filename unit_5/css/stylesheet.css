@@ -57,6 +57,14 @@ article {
     height: 500px;
     display: block;
 }
+
+.img1 {
+	height: 30px;
+	width: 30px;
+	border:1px red solid;
+	display: block;
+	
+}
 footer {
     background-color: silver;
     border: 1px white solid;
