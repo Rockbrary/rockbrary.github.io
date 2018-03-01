@@ -21,13 +21,6 @@ a {
  padding: 20px;
 }
 
-.clearfix:after {
-	visibility: hidden;
-	display: block;
-	content: " ";
-	clear: block;
-	height: 0;
-	font-size: 0;
 }
 
 a:hover {
