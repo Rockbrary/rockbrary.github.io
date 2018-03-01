@@ -70,12 +70,7 @@ article {
     display: block;
 }
 
-article img {
-	border-radius: 50%
-	margin-bottom: 50%;
-	height: 100px
-    width: absolute;
-    clear: both;
+
 }
 article p {
 	text-decoration: center;
