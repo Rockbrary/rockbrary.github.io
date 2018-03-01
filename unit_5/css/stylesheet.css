@@ -74,7 +74,7 @@ aside {
 .img2 {
 	width: 46%;
 	padding: 2%;
-	height: px;
+	height: 2px;
 	float: right;
 }
 
@@ -85,13 +85,6 @@ article {
     width: 500px;
     height: 500px;
     display: block;
-}
-.picture {
-	border: 1px black solid;
-	padding: .8em;
-	width: 150px;
-	height: 150px;
-	display: block;
 }
 
 
