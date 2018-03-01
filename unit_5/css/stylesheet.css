@@ -70,6 +70,15 @@ aside {
 	height: 500px;
 	display: block;
 }
+
+.picture {
+	border: 1px black solid;
+	padding: 1px;
+	float: left;
+	width: 3px;
+	height: 3px;
+	display: block;
+}
 	
 
 article {
