@@ -118,6 +118,8 @@ footer {
     clear: both;
     margin: .8em;
     align-self: center;
+    height: 100px;
+    width: absolute;
 }
 
 #two_column {
