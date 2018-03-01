@@ -18,11 +18,15 @@ nav {
 }
 nav, ul {
 	padding: 0;
-	margin-right: 20px;
+	margin-right: 0;
 	text-decoration-color: black;
 	font-family: Times New Roman, San Seriff;
 	font-size: 17px;
-	
+
+}
+nav ul li {
+	padding: 0;
+	float: left;
 }
 div {
 	border: 2px black solid;
