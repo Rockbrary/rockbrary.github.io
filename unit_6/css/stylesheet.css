@@ -1,5 +1,5 @@
 body {
-	background: black;
+	
 }
 
 header {
@@ -32,6 +32,9 @@ a {
 
 a:hover {
 	color: red;
+}
+section {
+	background-color: black;
 }
 #left {
 	background-color: maroon;
