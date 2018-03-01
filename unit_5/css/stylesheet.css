@@ -65,7 +65,7 @@ article img {
     width: absolute;
     clear: both;
 }
-p {
+article p {
 	text-decoration: center;
 	color: white;
 	font-size: 20px;
