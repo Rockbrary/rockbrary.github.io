@@ -95,10 +95,20 @@ article {
 
 
 }
-article p {
-	text-decoration: center;
-	color: white;
-	font-size: 20px;
+.picture_2 {
+	border: 1px black solid;
+	padding: 10px;
+	float: right;
+	width: 300px;
+	height: 300px;
+	display: block;
+}
+ article h2 {
+ 	color: black;
+ 	font-size: 1.5em;
+ 	font-family: Helvetica, sans-serif;
+ 	float: left;
+ }
 
 }
 footer {
