@@ -20,7 +20,7 @@ header {
 	background-color: red;
 	border: 1px grey solid;
 	padding: 20px;
-	width: 100%;
+	width: absolute;
 	height: 40px;
 	list-style-type: none;
 }
