@@ -79,6 +79,9 @@ aside {
 	height: 150px;
 	display: block;
 }
+ aside p {
+ 	float: right;
+ }
 	
 
 article {
