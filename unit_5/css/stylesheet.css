@@ -7,8 +7,18 @@ header {
 }
 
 nav {
-	background-color: #E8C66A;
-	border: 1px black solid;
+	position: absolute;
+	left: 0px;
+	height: 30px;
+	margin: 0 250 0 250;
+}
+
+li {
+	text-decoration: none;
+	text-decoration-color: red;
+	font-family: sans-serif;
+	align-content: left;
+
 }
 
 div {
