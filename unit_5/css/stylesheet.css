@@ -20,7 +20,6 @@ header {
 }
 
 #nav {
-	position: absolute;
 	background-color: red;
 	border: 1px grey solid;
 	padding: 20px;
@@ -48,13 +47,10 @@ header {
     display: block;
     text-align: left;
 }
-section {
-    size: absolute;
     
 }
 
 aside {
-	background-color: grey;
 	border: 1px white solid;
 	padding: 1.5em;
 	float: right;
@@ -71,7 +67,6 @@ aside {
 }
 
 article {
-	background-color: silver;
     border: 1px white solid;
     padding: 1.5em;
     float: left;
@@ -98,12 +93,12 @@ footer {
 }
 
 #two_column {
-	background-color: #FFB7CF;
+	background-color: #red;
 	border: 1px black solid;
 	padding: 20px;
 }
 #left {
-	background-color: #E582A2;
+	background-color: white;
 	border: 1px black solid;
 	padding: 20px;
 	float: left;
