@@ -6,11 +6,20 @@ header {
 
 }
 
+.img1 {
+	width: absolute;
+	border-bottom-style: solid;
+	border-color: grey;
+
+
+}
+
 nav {
 	position: absolute;
 	left: 0px;
-	height: 30px;
-	margin: 30px;
+	height: 10px;
+	margin: 10px;
+	padding: 0px
 }
 
 nav ul{
@@ -56,6 +65,17 @@ aside {
 	padding: 50px;
 	margin: 20px 20px 20px 20px;
 	float: right;
+	height: 300px;
+	width: 300px;
+	
+}
+
+.aside2 {
+	background-color: #FFC675
+	border: 2px black solid;
+	padding: 50px;
+	margin: 20px;
+	float: middle;
 	height: 300px;
 	width: 300px;
 	
