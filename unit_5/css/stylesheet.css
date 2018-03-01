@@ -58,10 +58,13 @@ article {
     display: block;
 }
 
-.description img  {
-	width: 30px;
-	height: ;
-    float: left;
+article img {
+	border: 1px black solid;
+	margin: 1px;
+	display: block;
+	width: absolute;
+	float: left;
+	
 }
 p {
 	text-decoration: center;
