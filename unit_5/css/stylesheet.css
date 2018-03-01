@@ -52,6 +52,11 @@ header {
 }
     
 }
+section {
+	border: 1px white solid;
+	padding: 1.5em;
+	margin: 20px;
+}
 
 aside {
 	border: 1px white solid;
