@@ -9,6 +9,10 @@ header {
 	padding: 20px;
 
 }
+.wrapper {
+	width: absolute;
+	
+}
 
 #nav {
 	position: absolute;
