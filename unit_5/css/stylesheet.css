@@ -47,13 +47,13 @@ aside {
 	height: 450px;
 	display: block;
 }
-aside img {
+.picture {
 	height: 20px;
-	width: 20px;
+	width: absolute;
 	display: block;
 	border:1px black solid;
 	float: right;
-	
+
 }
 
 article {
