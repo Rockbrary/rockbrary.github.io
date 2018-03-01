@@ -8,7 +8,7 @@ header {
 }
 
 nav {
-	background-color: red;
+	background-color: white;
 	font-family: Arial, sans-serif;
 
 }
@@ -32,4 +32,25 @@ a {
 
 a:hover {
 	color: red;
+}
+#left {
+	background-color: maroon;
+	padding: 1.5em;
+	margin: 0;
+	width: 350px;
+}
+
+#article {
+	background-color: black;
+	padding: 1.5em;
+	margin: 0;
+	float: left;
+}
+
+#right {
+	color: red;
+	padding: 20px;
+	margin:30px;
+	width: 350px;
+
 }
