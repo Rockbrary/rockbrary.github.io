@@ -11,7 +11,7 @@ header {
 }
 .wrapper {
 	width: absolute;
-	
+
 }
 
 #nav {
@@ -105,7 +105,7 @@ footer {
 	width: 30%;
 }
 #right {
-	background-color: #E555B88;
+	background-color: #E55B88;
 	border: 1px black solid;
 	padding: 20px;
 	float: right;
