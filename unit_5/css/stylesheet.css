@@ -143,3 +143,10 @@ footer {
 	width: 46%;
 	height: absolute;
 }
+#bottom {
+	background-color: white;
+	border:1px black solid;
+	padding: 20px;
+	clear: both;
+	width: absolute;
+}
