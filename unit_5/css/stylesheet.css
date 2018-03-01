@@ -19,16 +19,19 @@ aside {
 	background-color: grey;
 	border: 1px white solid;
 	padding: 20px;
+	float: right;
 }
 
 article {
-	background-color: grey;
+	background-color: silver;
     border: 1px white solid;
     padding: 20px;
+    float: left;
 }
 footer {
-    background-color: grey;
+    background-color: silver;
     border: 1px white solid;
     padding: 20px;
+    clear: both;
 }
 
