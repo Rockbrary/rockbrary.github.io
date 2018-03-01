@@ -61,9 +61,8 @@ article {
 article img {
 	border-radius: 50%
 	margin-bottom: 50%;
-	display: block;
 	width: absolute;
-	float: left;
+	clear: both;
 	height: 300px
     width: 300px;
 }
