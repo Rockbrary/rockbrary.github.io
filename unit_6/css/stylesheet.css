@@ -1,0 +1,35 @@
+body {
+	background-color: black;
+}
+
+header {
+	background-color: black;
+	padding: 30px;
+}
+
+nav {
+	background-color: red;
+	font-family: Arial, sans-serif;
+
+}
+a{
+ background-color: black;
+ color: white;
+ text-decoration: none;
+ display: block;
+ float: left;
+ padding: 20px;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	content: " ";
+	clear: block;
+	height: 0;
+	font-size: 0;
+}
+
+a:hover {
+	color: red;
+}
