@@ -82,7 +82,7 @@ article p {
 footer {
     background-color: silver;
     border: 1px white solid;
-    padding: 40px;
+    padding: 1.5em;
     clear: both;
     margin: 40px;
     align-self: center;
