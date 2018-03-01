@@ -16,6 +16,14 @@ nav {
 	border: 2px black solid;
 	padding: 20px;
 }
+nav, ul {
+	padding: 0;
+	margin-right: 20px;
+	text-decoration-color: black;
+	font-family: Times New Roman, San Seriff;
+	font-size: 17px;
+	
+}
 div {
 	border: 2px black solid;
 	padding: 20px;
