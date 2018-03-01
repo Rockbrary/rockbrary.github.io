@@ -50,15 +50,6 @@ img {
 
 }
 
-.img img2 {
-	display: block;
-	margin: 0 auto;
-	border: 2px;
-	height: 200px;
-	width: 200px;
-	float: left;
-}
-
 ul {
 	list-style: none;
 	margin: 0;
