@@ -51,6 +51,9 @@ header {
     display: block;
     text-align: left;
 }
+a:hover {
+	color: black;
+}
     
 }
 section {
@@ -82,6 +85,13 @@ article {
     width: 500px;
     height: 500px;
     display: block;
+}
+.picture {
+	border: 1px black solid;
+	padding: .8em;
+	width: 150px;
+	height: 150px;
+	display: block;
 }
 
 
