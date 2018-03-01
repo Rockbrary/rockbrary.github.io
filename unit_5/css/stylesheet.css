@@ -22,6 +22,7 @@ header {
 
 #nav {
 	background-color: red;
+	color: black;
 	border: 1px grey solid;
 	padding: 1.5em;
 	margin: 10px;
