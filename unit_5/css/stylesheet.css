@@ -13,6 +13,8 @@ nav {
 	background-color: red;
 	border: 1px grey solid;
 	padding: 20px;
+	width: 20px;
+	height: 20px;
 }
 
 aside {
@@ -20,6 +22,8 @@ aside {
 	border: 1px white solid;
 	padding: 20px;
 	float: right;
+	width: 300px;
+	height: 300px;
 }
 
 article {
@@ -27,6 +31,8 @@ article {
     border: 1px white solid;
     padding: 20px;
     float: left;
+    width: 500px;
+    height: 500px;
 }
 footer {
     background-color: silver;
