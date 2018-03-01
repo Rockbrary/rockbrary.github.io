@@ -48,11 +48,11 @@ aside {
 	display: block;
 }
 .picture {
-	height: 20px;
-	width: absolute;
+	height: 100px;
+	width: 200px;
 	display: block;
 	border:1px black solid;
-	float: right;
+	
 
 }
 
