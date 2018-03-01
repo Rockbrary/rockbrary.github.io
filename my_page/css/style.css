@@ -75,7 +75,7 @@ text-align: center;
 
 }
 
-.img1 img {
+.img1 {
 	height: 300px;
 	width: 300px;
 }
@@ -84,7 +84,7 @@ text-align: center;
 	border-radius: 50%;
 }
 
-.img2 img {
+.img2 {
 	height: 300px;
 	width: 300px;
 	margin-left: 0;
@@ -96,7 +96,7 @@ text-align: center;
 	margin-bottom: 50px;
 }
 
-.img3 img {
+.img3 {
 	height: 300px;
 	width: 300px;
 	margin-left: 0;
