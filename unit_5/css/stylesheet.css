@@ -15,10 +15,11 @@ header {
 }
 
 nav {
+	border: 2px black solid;
 	position: absolute;
 	left: 0px;
 	height: 10px;
-	margin: 10px;
+	margin: 30px;
 	padding: 0px
 }
 
@@ -78,7 +79,7 @@ aside {
 	float: middle;
 	height: 300px;
 	width: 300px;
-	
+
 }
 
 article {
