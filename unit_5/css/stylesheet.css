@@ -17,6 +17,7 @@ header {
 	padding: 20px;
 	width: 100%;
 	height: 40px;
+	list-style-type: none;
 }
 #nav ul {
 	margin: 0;
