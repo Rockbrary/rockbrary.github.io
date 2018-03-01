@@ -63,6 +63,7 @@ article img {
 	margin-bottom: 50%;
 	height: 300px
     width: absolute;
+    clear: both;
 }
 p {
 	text-decoration: center;
