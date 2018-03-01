@@ -61,10 +61,8 @@ article {
 article img {
 	border-radius: 50%
 	margin-bottom: 50%;
-	width: absolute;
-	clear: both;
 	height: 300px
-    width: 300px;
+    width: absolute;
 }
 p {
 	text-decoration: center;
