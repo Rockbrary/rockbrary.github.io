@@ -58,9 +58,9 @@ article {
     display: block;
 }
 
-article .img1 {
+.description img  {
 	width: 30px;
-	height: 30px;
+	height: ;
     float: left;
 }
 p {
