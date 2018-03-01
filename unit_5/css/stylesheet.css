@@ -3,6 +3,15 @@ body {
 	size: absolute;
 
 }
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
+}
 header {
 	background-color: black;
 	border: 1px grey solid;
