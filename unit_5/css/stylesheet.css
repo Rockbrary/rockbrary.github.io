@@ -48,7 +48,10 @@ aside {
 	display: block;
 }
 	
-
+.img2 {
+	border-radius: 50%;
+	margin-bottom: 50%;
+}
 
 article {
 	background-color: silver;
