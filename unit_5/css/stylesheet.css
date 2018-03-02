@@ -73,7 +73,7 @@ aside {
 .picture {
 	border: 1px black solid;
 	padding: 1px;
-	size: 80%;
+	size: 20%;
 	margin: 2em;
 	display: block;
 }
@@ -96,7 +96,7 @@ article {
 	border: 1px black solid;
 	padding: 1px;
 	size:20%;
-	margin: 2em;
+	margin: 0 auto;
 }
  article h2 {
  	color: black;
