@@ -61,26 +61,6 @@ section {
 	size: 945px;
 }
 
-aside {
-	border: 1px white solid;
-	padding: 1.5em;
-	float: left;
-	width: 48%;
-
-	display: block;
-}
-
-.picture {
-	border: 1px black solid;
-	padding: 1px;
-	size: 20%;
-	margin: 2em;
-	display: block;
-}
- aside p {
- 	float: right;
- }
-
 article {
     border: 1px white solid;
     padding: 1.5em;
