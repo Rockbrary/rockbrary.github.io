@@ -64,8 +64,9 @@ section {
 aside {
 	border: 1px white solid;
 	padding: 1.5em;
-	float: left;
+	float: right;
 	width: 48%;
+	
 	display: block;
 }
 
@@ -83,7 +84,7 @@ aside {
 article {
     border: 1px white solid;
     padding: 1.5em;
-    float: left;
+    float: right;
     width: 48%;
     display: block;
 }
