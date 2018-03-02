@@ -64,7 +64,7 @@ section {
 aside {
 	border: 1px white solid;
 	padding: 1.5em;
-	float: right;
+	float: left;
 	width: 48%;
 
 	display: block;
@@ -84,7 +84,7 @@ aside {
 article {
     border: 1px white solid;
     padding: 1.5em;
-    float: right;
+    float: left;
     width: 48%;
     display: block;
 }
@@ -95,15 +95,16 @@ article {
 .picture_2 {
 	border: 1px black solid;
 	padding: 1px;
-	size:80%;
+	size:20%;
 	margin: 2em;
 	display: block;
 }
  article h2 {
  	color: black;
- 	font-size: 1.5em;
+ 	font-size: 12px;
  	font-family: Helvetica, sans-serif;
  	float: left;
+
  }
 
 }
@@ -127,10 +128,10 @@ footer {
 #right {
 	background-color: white;
 	border: 1px black solid;
-	padding: 20px;
-	float: right;
-	width: 46%;
-	margin: 2%;
+	padding: 10px;
+	float: left;
+	width: 33.33%;
+	margin: 1%;
 }
 #bottom {
 	background-color: white;
