@@ -72,7 +72,7 @@ aside {
 .picture {
 	border: 1px black solid;
 	padding: 1px;
-	float: left;
+	size: 80%;
 	margin: 2em;
 	display: block;
 }
@@ -94,7 +94,7 @@ article {
 .picture_2 {
 	border: 1px black solid;
 	padding: 1px;
-	float: left;
+	size:80%;
 	margin: 2em;
 	display: block;
 }
